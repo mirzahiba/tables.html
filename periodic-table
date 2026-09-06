@@ -1,0 +1,166 @@
+<!DOCTYPE html
+<html>
+<head>
+    <title>Periodic Table</title>
+</head>
+<h1><center>Hiba Mirza</center></h1>
+<h2><center>Assignment # 5</center></h2>
+
+<body>
+<h1><center>Periodic Table</center></h1>
+<table border="5" cellspacing="5">
+    <body bgcolor="black" text="black"><center>
+
+<table border="1" cellpadding="10" cellspacing="1" align="center">
+
+    <tr>
+        <td bgcolor="pink">1<br><b>H</b></td>
+        <td colspan="26"></td>
+        <td bgcolor="#795F80">2<br><b>He</b></td>
+    </tr>
+
+    <tr>
+        <td bgcolor="#720058">3<br><b>Li</b></td>
+        <td bgcolor="green">4<br><b>Be</b></td>
+        <td colspan="20"></td>
+        <td bgcolor="red">5<br><b></b>B</td>
+        <td bgcolor="pink">6<br><b>C</b></td>
+        <td bgcolor="pink">7<br><b>N</b></td>
+        <td bgcolor="pink">8<br><b>o</b></td>
+        <td bgcolor="#617d46">9<br>F</th>
+        <td bgcolor="#795F80">10<br>Ne</th>
+    </tr>
+    <tr>
+<td bgcolor="#720058">11<br><b>Na</b></td>
+<td bgcolor="green">12<br><b>Mg</b></td>
+<td colspan="10"></td>
+<td bgcolor="#40E0D0">13<br><b>Al</b></td>
+<td bgcolor="red">14<br><b>Si</b></td>
+<td bgcolor="red">15<br><b>P</b></td>
+<td bgcolor="red">16<br><b>S</b></td>
+<td bgcolor="#617d46">17<br><b>Cl</b></td>
+<td bgcolor="#795F80">18<br><b>Ar</b></td>
+</tr>
+<tr>
+    <td bgcolor="#720058">19<br><b>K</b></td>
+    <td bgcolor="green">20<br><b>Ca</b></td>
+    <td bgcolor="#87AE73">21<br><b>Sc</b></td>
+</tr>
+
+
+
+
+
+
+
+
+    <tr>
+        <th>Na<br>11</th>
+        <th>Mg<br>12</th>
+        <th colspan="10"></th>
+        <th>Al<br>13</th>
+        <th>Si<br>14</th>
+        <th>P<br>15</th>
+        <th>S<br>16</th>
+        <th>Cl<br>17</th>
+        <th>Ar<br>18</th>
+    </tr>
+
+    <tr>
+        <th>K<br>19</th>
+        <th>Ca<br>20</th>
+        <th>Sc<br>21</th>
+        <th>Ti<br>22</th>
+        <th>V<br>23</th>
+        <th>Cr<br>24</th>
+        <th>Mn<br>25</th>
+        <th>Fe<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <td bgcolor="pink">1<br><b>H</b></td>
+    <td colspan="16"></td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+            </center>
+
+        </body>
+
+             
+                
+                
+                
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>           

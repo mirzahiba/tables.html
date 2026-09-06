@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Tables- html </title>
+    </head>
+    <h1><center> Assignment # 5</center></h1>
+    <h2><center> Hiba Mirza </center></h2>
+    <h3><center><a href="periodic-table"> Periodic-table </a></center></h3>
+    <hr>
+    <body>
+        <table border="1" cellspacing="0">
+            <tr> 
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+            </tr>    
+           <tr>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white"></td>
+                <td width="30" height="30" bgcolor="red"></td>
+                <td width="30" height="30" bgcolor="red"></td>
+                <td width="30" height="30" bgcolor="white"></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" >start</td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+           </tr>
+                <tr>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                </tr>
+                <tr>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                </tr>
+                <tr>
+                
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                </tr>
+                <tr> 
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                <td width="30" height="30" bgcolor="green" ></td>
+                </tr>
+                <tr>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="black" ></td>
+                <td width="30" height="30" bgcolor="white" ><center>1</center></td>
+                <td width="30" height="30" bgcolor="black" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                </tr>
+                <tr>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="red" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ><center>2</center></td>
+                <td width="30" height="30" bgcolor="grey" ><center>win</center></td>
+                <td width="30" height="30" bgcolor="white" ><center>3</center></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                </tr>
+                <tr>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="black" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="black" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                </tr>
+              <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+              </tr>
+              <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+              </tr>   
+            <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+            </tr>
+            <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+            </tr>
+            <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ><center>start</center></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+            </tr>
+            <tr>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="lightblue" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="white" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+                <td width="30" height="30" bgcolor="yellow" ></td>
+            </tr>
+            <p>
+              <h4><center> 4 Players,1 winner, unlimited drama!</center></h4>
+            </p>
+        </table>
+    </body>
+</html>
+                
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+
+                
+                
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+        </table>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+ 
